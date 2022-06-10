@@ -1,0 +1,4 @@
+C:\Ivan\Kursova_OP\Kursova\Debug\Kursova.vcxproj.AssemblyReference.cache
+C:\Ivan\Kursova_OP\Kursova\Debug\Kursova.MyForm.resources
+C:\Ivan\Kursova_OP\Kursova\Debug\Kursova.vcxproj.GenerateResource.cache
+C:\Ivan\Kursova_OP\Kursova\Debug\Kursova.exe
